@@ -14,7 +14,7 @@ Pages and Functionality:
 
 *Dynamically filters books based on category (/books/:category).
 *Provides a search functionality for books.
-*Displays book cards with a link to book detail.
+*Displays book cards with a "View Details" link.
 
 3.Book Details Page:
 
@@ -38,6 +38,6 @@ Technologies Used:
 
 1.React – For building the user interface.
 2.Redux Toolkit – For state management.
-3.React Router  – For routing and dynamic URL management.
+3.React Router v6 – For routing and dynamic URL management.
 4.Vite/ – For development tooling and bundling.
 5.CSS – For styling the components.
